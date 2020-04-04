@@ -1,0 +1,13 @@
+C:\Works\CursoCSharp8\Saludo\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Works\CursoCSharp8\Saludo\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Works\CursoCSharp8\Saludo\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Works\CursoCSharp8\Saludo\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Works\CursoCSharp8\Saludo\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Works\CursoCSharp8\Saludo\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Works\CursoCSharp8\Saludo\Consola\obj\Debug\netcoreapp3.1\Consola.csprojAssemblyReference.cache
+C:\Works\CursoCSharp8\Saludo\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Works\CursoCSharp8\Saludo\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Works\CursoCSharp8\Saludo\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Works\CursoCSharp8\Saludo\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Works\CursoCSharp8\Saludo\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Works\CursoCSharp8\Saludo\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
